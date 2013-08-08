@@ -1,0 +1,12 @@
+{
+  "name": "redistest",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {
+    "redis": "latest"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}
